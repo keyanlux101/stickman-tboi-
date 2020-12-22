@@ -1,0 +1,4 @@
+<players bigportraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" root="gfx/characters/costumes/">
+	<player bigportrait="BigHuttsPortrait.png" bombs="4" hp="2" armor="2" card="8" name="Hutts"
+ nameimage="playername_hutts.png" portrait="HuttsPortrait.png" skin="character_hutts.png" skinColor="-1" />
+</players>
